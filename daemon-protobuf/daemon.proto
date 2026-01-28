@@ -1,0 +1,11 @@
+syntax = "proto3";
+package daemon;
+
+enum MessageType {
+  EXAMPLE_MESSAGE = 0;
+}
+
+message ExampleMessage
+{
+  bytes example_byte = 1;
+}

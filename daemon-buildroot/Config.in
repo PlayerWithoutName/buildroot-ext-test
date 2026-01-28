@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_DAEMON_PATH/package/test-daemon/Config.in"
+source "$BR2_EXTERNAL_DAEMON_PATH/package/zig/Config.in.host"
